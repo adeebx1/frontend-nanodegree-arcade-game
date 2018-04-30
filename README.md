@@ -8,7 +8,7 @@
 
 ## How to play?
 
-After you open the Matching game web page , you can start playing game that you try to reach the sea or the blue line without colliding with any enemy. If you collide with any enemy, the game will restart and the player will be back to starting position.
+After you open the Arcade game web page , you can start playing game that you try to reach the sea or the blue line without colliding with any enemy. If you collide with any enemy, the game will restart and the player will be back to starting position.
 
 
 
